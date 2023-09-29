@@ -1,0 +1,7 @@
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\bin\Debug\LabrRabClass28.09.exe.config
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\bin\Debug\LabrRabClass28.09.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\bin\Debug\LabrRabClass28.09.pdb
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\obj\Debug\LabrRabClass28.09.csproj.AssemblyReference.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\obj\Debug\LabrRabClass28.09.csproj.CoreCompileInputs.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\obj\Debug\LabrRabClass28.09.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\LabrRabClass28.09\LabrRabClass28.09\obj\Debug\LabrRabClass28.09.pdb
