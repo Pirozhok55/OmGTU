@@ -1,0 +1,7 @@
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\bin\Debug\30.09.exe.config
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\bin\Debug\30.09.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\bin\Debug\30.09.pdb
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\obj\Debug\30.09.csproj.AssemblyReference.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\obj\Debug\30.09.csproj.CoreCompileInputs.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\obj\Debug\30.09.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\30.09\30.09\obj\Debug\30.09.pdb
