@@ -28,17 +28,12 @@ namespace _30._09
                     if (a == -32768) isch++;
 
                     // 2
-                    for (short b = a; b !=0 ; b /= 10)
-                    {
-                        if (b % 10 == 5) five++;
-                    }
+                    for (short b = a; b !=0 ; b /= 10) if (b % 10 == 5) five++;
+                    
 
                     //3
                     if (a < 0) a *= -1;
-                    for (short b = a; b != 0; b /= 10)
-                    {
-                        sum += b % 10;
-                    }
+                    for (short b = a; b != 0; b /= 10) sum += b % 10;
                     if (sum < minsum) minsum = sum;
                     sum = 0;
                 }
