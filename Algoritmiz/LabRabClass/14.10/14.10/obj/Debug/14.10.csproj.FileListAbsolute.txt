@@ -1,7 +1,0 @@
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\bin\Debug\14.10.exe.config
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\bin\Debug\14.10.exe
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\bin\Debug\14.10.pdb
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\obj\Debug\14.10.csproj.AssemblyReference.cache
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\obj\Debug\14.10.csproj.CoreCompileInputs.cache
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\obj\Debug\14.10.exe
-C:\Users\lk43m\OneDrive\Рабочий стол\c#\14.10\14.10\obj\Debug\14.10.pdb
