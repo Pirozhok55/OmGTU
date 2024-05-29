@@ -1,0 +1,7 @@
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\bin\Debug\Auditories.exe.config
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\bin\Debug\Auditories.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\bin\Debug\Auditories.pdb
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\obj\Debug\Auditories.csproj.AssemblyReference.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\obj\Debug\Auditories.csproj.CoreCompileInputs.cache
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\obj\Debug\Auditories.exe
+C:\Users\lk43m\OneDrive\Рабочий стол\c#\Auditories\Auditories\obj\Debug\Auditories.pdb
